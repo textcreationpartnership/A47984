@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a friend to the wise and learned, in England, Scotland, France, and Ireland</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47984</idno>
+            <idno type="STC">Wing L1378</idno>
+            <idno type="STC">ESTC R221715</idno>
+            <idno type="EEBO-CITATION">99832985</idno>
+            <idno type="PROQUEST">99832985</idno>
+            <idno type="VID">37460</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2189:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a friend to the wise and learned, in England, Scotland, France, and Ireland</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed in the year 1680, by Tho. James, according to the mind, will, and desire of the author, for the publick good of all nations, being the fruit of his meditation for England's great honour, riches, and glory,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1680]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: November, 3. 1680.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Publication and distribution --  Early works to 1800.</term>
+               <term>Finace, Public --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:37460:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <head>
+               <figure>
+                  <head>C<hi rend="sup">2</hi> R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>A Letter from a Friend to the Wiſe and Learn<g ref="char:EOLhyphen"/>ed, in <hi>England, Scotland, France,</hi> and <hi>Ireland.</hi>
+            </head>
+            <p>FOr to procure and ſecure great Sums of Mo<g ref="char:EOLhyphen"/>ney to the Crown of <hi>England,</hi> above Ten Hundred Thouſand Pounds a Year for ever. And that in a Right Lawful, Honourable, and moſt Commendable Way, and Manner; for to maintain and uphold the great Honour and Exal<g ref="char:EOLhyphen"/>tation of our Royal Sovereign, <hi>Charles</hi> the Se<g ref="char:EOLhyphen"/>cond, King of <hi>Great Britain,</hi> among the Sons of Men, and above any of them; above all Heathen and Popiſh Kings, Prieſts, Princes, and Emperors in the World: for the Glory, and great Glory of the God of Heaven; for the Credit of his holy
+<pb n="2" facs="tcp:37460:2"/>
+               <!-- PDF PAGE 56 -->Goſpel, that ſo it may run and be glorified among all Nations where it is not; and may flouriſh more and more where it is. For the Honour and Renown of the Proteſtant Religion, and the Go<g ref="char:EOLhyphen"/>vernment of the Church of <hi>England,</hi> and the Peace and Proſperity of all Kingdoms. That this may be done, and well done, and many hundred thouſands of Pounds yearly to the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> let there for ever be provided and made ready, by the Command of Authority, in <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland, France,</hi> and <hi>Ireland,</hi> many hun<g ref="char:EOLhyphen"/>dred thouſands of Bibles, with the Publick Prayers of the Church of <hi>England,</hi> and let them be ſent among all People, in all Nations, for their Infor<g ref="char:EOLhyphen"/>mation, Reformation, and their great Joy, Peace, and Conſolation. And for every hundred thou<g ref="char:EOLhyphen"/>ſand of Bibles, will bring to the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> (in a ſhort time Yearly) above a hundred thouſand a Year. And well it may? Becauſe there is no Religion, or Wiſdom, to be learned among the Sons of Men, or from any Books made by them; but what is Ten thouſand times more to be learned in the Bible (which is the Word of God) and doth contain the Mind and Will of God towards Man; and all mens duty towards Him, who is their Creator, Redeemer, and Preſerver; who only can ſave, and will deliver them from Wrath to come, that do obey his Word, and be<g ref="char:EOLhyphen"/>lieve in his Son. The time is come, that in theſe days of the Goſpel, and in the Reign of our Roy<g ref="char:EOLhyphen"/>al Sovereign, <hi>Charles</hi> the Second, King of <hi>Great Britain:</hi> That all Heathen and Popiſh Kings,
+<pb n="3" facs="tcp:37460:2"/>
+               <!-- PDF PAGE 56 -->Prieſts, Princes, and Emperors in the World, are to know and underſtand, that the Lord of Hoſts, who is the God of all Wiſdom and Power, has the greateſt Power and Command over them; and that he will command their Kingdoms from them, or them from their Kingdoms, if that they will not maintain and uphold a Religion that is ſuita<g ref="char:EOLhyphen"/>ble and agreeable to his holy Word, which is the Bible, which doth contain his Mind and Will. This will be the way for to win many Souls from the Devil, ſo that the Heathens will be Conver<g ref="char:EOLhyphen"/>ted, and <hi>Jews</hi> and Gentiles brought into one Fold; ſo that the Knowledg of the Lord will co<g ref="char:EOLhyphen"/>ver the Earth, as the Waters cover the Sea. This will be the way for the Kingdoms of Sin and Satan, to grow weaker and weaker, and the Kingdom of our Lord and Saviour, ſtronger and ſtronger. This will be the way for all falſe Religion to be diſco<g ref="char:EOLhyphen"/>vered: The Religion of the <hi>Turk,</hi> and that of the Pope, to be known that it is full of Deceit, and a great Cheat. Men cannot but ſin againſt God, and wrong their own Souls, for to be of any Religion that is of man's Judgment, or Opinion; but they that make the Word of God their Rule, his Spirit their Guide, and his Glory their Aim; their Lives will be comfortable to themſelves, and profitable to many in the Wilderneſs of this World. That man that is Converted, ſhould know when and how, in due time and ſeaſon, to hold forth the Word of Life, to counſel, comfort, and ſtrengthen his Brethren; not only they that be in a ſtate of Grace, but they that be in the
+<pb n="4" facs="tcp:37460:3"/>
+               <!-- PDF PAGE 57 -->ſtate of Nature: Becauſe that the beſt of men that have the greateſt Knowledg, and the ſtrongeſt aſſurance of God's Love and Favour to their Souls, are as bad by Nature as they that want Grace, and do not injoy the means of Grace; therefore they are to be pitied, and all means to be uſed, that they may come to the knowledg of the true God, and Jeſus Chriſt whom he hath ſent; and that is by having the Word of God ſent among them, and made known unto them. For the Word of God is ſuch a Light, as doth diſcover and hold forth the Lord of Life, who is the Sa<g ref="char:EOLhyphen"/>viour of all men, but eſpecially them that do be<g ref="char:EOLhyphen"/>lieve in him, and are not afraid and aſhamed to own Him, and appear for Him, who is a Perſon moſt worthy, and altogether lovely. As God, who is moſt Great, and moſt Good, is willing that all ſhould be ſaved, and come to the knowledg of the Truth; therefore all People in all Nations, ſhould have the Word of Truth made known unto them: Becauſe the ſalvation of a man, is more worth than the gaining of the whole World. By the Word of God, which too many do ſlight and undervalue, the ſimple do come to underſtand the Mind of God, to do his Will, and to injoy his Favour; which is better than Life, and all the delights of this World.</p>
+            <p>But there is a Generation of men, that have made ſeparation from the Church of <hi>England,</hi> that be pure in their own Eyes, theſe take upon them to condemn all but themſelves; but it will be well for them, if that God and their own Conſciences,
+<pb n="5" facs="tcp:37460:3"/>
+               <!-- PDF PAGE 57 -->do not condemn them; too many of them having a name to Live, and are Dead. The condemnati<g ref="char:EOLhyphen"/>on of ſuch men at the Day of Judgment, will be more heavier, than upon them that do want the means of Grace, and never heard of Chriſt. Is not God willing that any ſhould miſcarry, but that all ſhould come to the knowledg of the Truth; then let not any take up Religion upon man's Judgment, or Opinion, but let every one ſearch the Scriptures, for they be they that teſtifie of Chriſt; which make the Bible to be more worth than thouſands, ten thouſands of Gold and Silver. For the Law of the Lord is perfect, con<g ref="char:EOLhyphen"/>verting the Soul; the Teſtimony of the Lord is ſure, making wiſe the Simple; the Statutes of the Lord are right, rejoycing the Heart; the Commandments of the Lord is pure, enlightning the Eyes; the Fear of the Lord is clean, endu<g ref="char:EOLhyphen"/>ring for ever; the Judgments of the Lord are True and Righteous altogether: More to be de<g ref="char:EOLhyphen"/>ſired are they than Gold, yea, than much fine Gold; ſweeter alſo than Honey, or the Honey-comb. The Word of God is the richeſt Treaſure, and gives unto the Mind of man the ſweeteſt pleaſure, above all other Books in the World. That Exhor<g ref="char:EOLhyphen"/>tation is full of Conſolation for Young and Old, High and Low, Rich and Poor, for Learned and Unlearned, for to have the Word of God to dwell richly in them; becauſe it is the Word of Power, of Authority, of Majeſty, and of Prophecy. O, how did King <hi>David</hi> love the Law of God? It was his delight and his meditation Day and Night.
+<pb n="6" facs="tcp:37460:4"/>
+               <!-- PDF PAGE 58 -->It made him wiſer than his Enemies, yea, wiſer than his Counſellors. It is the higheſt Intereſt, and will bring the greateſt Honour, Profit, and Comfort, to all Kings, Prieſts, Princes, and Em<g ref="char:EOLhyphen"/>perors, in the World; for to delight them<g ref="char:EOLhyphen"/>ſelves in the Word of God above all things in the World: becauſe it doth hold forth that Pearl of Price, which is more worth than all the Kingdoms of the World. And that Pearl of Price is the Lord of Life, the King of Glory, the Prince of Peace; who only can make them Wiſe, Strong, Rich, and Honourable in the ſight of God, and holy Angels; who only can make them parta<g ref="char:EOLhyphen"/>kers of the D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vine Nature, which is the higheſt Honour, and the greateſt Favour; who only can give them endurable Riches as an Ornament of Grace, and a Crown of Glory, that will for ever laſt and flouriſh; when all things under the Sun will ſoon waſte and periſh. Becauſe the Church of <hi>England</hi> has kept the word of God's Patience, he will keep her in this hour of Temptation, which is come to try all Nations. The enemies to the Word of God, and to the Goſpel of our Lord and Saviour Jeſus Chriſt, is the <hi>Turk,</hi> the <hi>Pope,</hi> and the <hi>Devil,</hi> and all the workers of Evil, becauſe it doth blame them, and ſhame them, and will condemn them, if they will not learn to be lovers of God, and Workers of Righteouſ<g ref="char:EOLhyphen"/>neſs. The work of Righteouſneſs is Peace, and the effect of Righteouſneſs is quietneſs to the Mind, and will prove profitable, comfortable, and advantagious to all Mankind; ſo that the People will praiſe God, yea, all People in all Na<g ref="char:EOLhyphen"/>tions
+<pb n="7" facs="tcp:37460:4"/>
+               <!-- PDF PAGE 58 -->will learn from his holy Word, to praiſe him with new Obedience: ſo that the Earth will bring forth great increaſe, and among all People in all Nations, there will be a free Trade, great Joy, and a laſting Peace, from the Goſpel of Reconci<g ref="char:EOLhyphen"/>liation, which is to run and be glorified among all Nations, for their Information, Reformation, and everlaſting Salvation. So that <hi>England, Scot<g ref="char:EOLhyphen"/>land, France,</hi> and <hi>Ireland,</hi> will ſoon become the Wonder and the Glory of the World, the Crown of Kingdoms, the deſire and delight of Nations; the Joy of the whole Earth, and the City of the Great King; for Unity, Peace, and Concord; for Piety and Vertue; for Wiſdom, Power, and Strength; for Honours, Riches, and great Glory. As theſe are Trying Times, ſo this high and honourable Work is Trying Work; as it doth try and exerciſe all the powers of my Soul, ſo it will try and exerciſe all the Powers of the World; for the Glory and great Glory of the moſt High, and the great Ho<g ref="char:EOLhyphen"/>nour and Exaltation of <hi>England</hi>'s Royal Majeſty, among the Sons of Men, and above any of them. This work will try who are Enemies and Friends to God and Man. They be Enemies that will not mind and regard it, but will do what they can to hinder it, and oppoſe it; and they be Friends that do what they can to countenance, encourage, and ſet it forward as ſoon as they can, and as well as they can; for it will tend to their great Ho<g ref="char:EOLhyphen"/>nour, Peace, Profit, and Comfort. And though I have met in this high and honourable Work much diſcouragements from many of the Sons of
+<pb n="8" facs="tcp:37460:5"/>
+               <!-- PDF PAGE 59 -->Men, yet I have great encouragement from the God of Heaven, who is with me as a mighty God, a great King, and a righteous Judg; who will judg the World in Righteouſneſs, and his People with his Word of Truth: Therefore they that be incenſed againſt me, or offended at me, will be aſhamed. As the Sons of Men cannot hinder the Wind from blowing, nor the Waters from flowing; no more can they hinder the God of Heaven from working in me, and with me, for to manifeſt his Wiſdom and Power, among the Sons of Men, to bring about what he knows that is beſt to be done, for the great Honour, Peace, and Proſperity of our Royal King, and all Kingdoms. Though I am but a mean and ordinary Man for perſon, yet the Spirit of God is no mean and or<g ref="char:EOLhyphen"/>dinary Spirit for Counſel, that has enabled me to underſtand his Mind, and to make it known in due time.</p>
+            <p>Upon ſo noble a Deſign therefore, let not any deſpiſe the Day of ſmall things; for the Lord who is moſt Wiſe, and moſt Strong, loves to bring about great and wonderful things by weak and unlikely means; that ſo all the Glory may redound to Him, and that no Fleſh ſhould glory before him; becauſe all the Sons of Men have their Wiſ<g ref="char:EOLhyphen"/>dom, Power, and Strength from him, that is com<g ref="char:EOLhyphen"/>fortable to themſelves, and profitable to others. Let not any ſlight and undervalue the Bible, which is the Word of God, becauſe it is an Iron Rod, to bring home Children that do go aſtray, and a ſharp Sword to cut down them that will not it obey.
+<pb n="9" facs="tcp:37460:5"/>
+               <!-- PDF PAGE 59 -->Miniſters of the Goſpel, that do preach the Word of God in ſeaſon, and out of ſeaſon, are to be minded, regarded, and honoured, ſo far as their Doctrines do agree to the Word of God. And ſo are all men, ſo far as they honour, love, and obey the Word of God, which abideth for ever; for Heaven and Earth will ſooner fail, than one tittle of God's Word come to nothing. Therefore Glo<g ref="char:EOLhyphen"/>ry be given to the moſt High, from Men and An<g ref="char:EOLhyphen"/>gels, and that continually for his great Wiſdom, Power, Glory, and Majeſty; and great Honour and Renown, great Joy, Peace, and Proſperity from the moſt High, upon <hi>England</hi>'s Royal Maje<g ref="char:EOLhyphen"/>ſty, upon his Royal Perſon, and all his Royal Relations, that ſo he and they may long live to Reign for God, and with God, among the Sons of Men; for the great Joy, Peace, and Proſperity of them, and at laſt for ever with him, among the holy Angels in his Kingdom of Heaven, <hi>Amen, Amen.</hi> Let all Loyal and Faithful Subjects in <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> ſay, and pray; yea, all Perſons in all Nations, that do love the peace and proſperity of their Souls, and the comfort of their Lives. Made known in due time, how to procure and ſecure many hundred thouſand pound a Year to the Crown of <hi>England,</hi> for the great Honour and Profit of our Royal So<g ref="char:EOLhyphen"/>vereign, <hi>Charles</hi> the Second, King of <hi>Great Bri<g ref="char:EOLhyphen"/>tain;</hi> and for the peace and proſperity of all King<g ref="char:EOLhyphen"/>doms, by <hi>John Varney,</hi> a Member of the Church of <hi>England,</hi> and of the City of <hi>London;</hi> a Sub<g ref="char:EOLhyphen"/>ject to his Majeſty of <hi>Great Britain,</hi> and Servant
+<pb n="10" facs="tcp:37460:6"/>
+               <!-- PDF PAGE 60 -->to the God of all Wiſdom, Power, and Strength; who can do what he will, and work with whom he will, among the Sons of Men; to manifeſt his Wiſdom, and Power, for the great Honour and Exaltation of a Kings Perſon, and the great joy, peace, and proſperity of all Nations.</p>
+            <p>There be many ſeeming Friends among the Sons of Men, that be real Enemies unto them; but a true and a faithful Friend, is more precious than Gold, or the Gold of <hi>Ophir:</hi> Becauſe in the worſt of Times, and before the beſt of Men, he will venture his Life, endanger his Liberty, and ex<g ref="char:EOLhyphen"/>poſe himſelf to many Loſſes, Croſſes, and Re<g ref="char:EOLhyphen"/>proaches; not only for the good of his Friends, but of his Enemies. A Friend loveth at all times, and the Wounds of a Friend, is better than the Kiſſes of an Enemy. Our Lord and Saviour, who is the Lord of Life, the King of Glory, and the Prince of Peace, has Friends as well as Enemies, among the Sons of Men; that will own him, and appear for him: when that ſo many are not aſhamed to appear againſt him, in theſe times of his Goſpel. But what will the end of ſuch Men be? For the Face of the Lord is againſt them and all evil doers, to cut off the remembrance of them from the Earth. But his Eyes run to and fro through the whole Earth, to ſhew himſelf Strong in the behalf of them whoſe Heart is perfect to<g ref="char:EOLhyphen"/>wards him. Let that Man be where he will in <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> that is become a reconciled Friend to the God of Hea<g ref="char:EOLhyphen"/>ven, by his Word and Spirit; that Man ſhould
+<pb n="11" facs="tcp:37460:6"/>
+               <!-- PDF PAGE 60 -->know when, and how, in due time to prove him<g ref="char:EOLhyphen"/>ſelf a faithful Friend to the Sons of Men, to pre<g ref="char:EOLhyphen"/>vent much evil, that it may not come to a City, and a Kingdom, to remove much evil that is come: And to procure and ſecure great Honour, Peace, and Proſperity to our Royal King, and his Kingdoms, and that without making a noiſe about Religion, for any man's Judgment, or Opi<g ref="char:EOLhyphen"/>nion. Therefore not unto Man, not unto Man, no nor to the Angels in Heaven; but let all the Glory be given to the God of Heaven, who can by weak and unlikely Means, for the great Honour and Exaltati<g ref="char:EOLhyphen"/>on of a King's Perſon, and the great Joy, Peace, and Proſperity of all Nations, bring Order out of Confuſion, Light out of Darkneſs, Good out of Evil; and Peace out of Trouble.</p>
+            <p>There is not any ſo fit to manage this high and honourable Work, which Divine Wiſdom and Power has enabled me to make known in time, for the great Joy, peace, and proſperity of Mankind; than the Parliament of <hi>England;</hi> becauſe it is for the Glory, and the great Glory of the moſt High, and the great Honour and Exaltation of <hi>England</hi>'s Royal Majeſty; that ſo all Nations may be freed from Slavery, and throughout the whole World, great Joy, peace, and proſperity; to the great Shame, Contempt, and Terror of the <hi>Turk,</hi> the Pope, and the Devil, and all the Workers of Evil, who are for Strife, Contention, Sedition, and Treaſon, for Wars and Confuſion; ſo that moſt Peo<g ref="char:EOLhyphen"/>ple in all Nations will be in love with the <hi>Proteſtant Religion,</hi> and all Heathen and popiſh Kings, Prieſts,
+<pb n="12" facs="tcp:37460:7"/>
+               <!-- PDF PAGE 61 -->Princes, and Emperors in the World will be aſhamed of their Religion, and will be ready and willing for to ſerve &amp; honour our Royal Sovereign <hi>Charles</hi> the Second, King of <hi>Great Britain,</hi> as the chief Sove<g ref="char:EOLhyphen"/>reign among the Sons of Men, for Wiſdom, power, and Strength, over them; and well they may, be<g ref="char:EOLhyphen"/>cauſe the Lord of Hoſts is with him by his Spirit as a mighty Man, in Man, and for Man, to have his Enemies ſubdued both by Sea and Land; to have his Enemies ſubdued under his Feet, that ſo all Strife, Contention, and Wars, throughout the whole World may ceaſe; and among all People in all Nations a free Trade, great Joy, and a laſting peace. The Lord who is moſt Wiſe, and moſt Strong, is ſlow to Anger, but he is great in Power; and he knows when, how, and in whom to ariſe, to manifeſt his Wiſdom and Power; that ſo they that hate him may fly before him. As Wax melteth before the Fire, ſo will the Wicked before the preſence of the Lord. But the Righteous will be as bold as a Lion, for the great Honour of God, and our Royal King, and the Proteſtant Religi<g ref="char:EOLhyphen"/>on.</p>
+            <closer>
+               <dateline>
+                  <date>November, 3. 1680.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi>
+            </p>
+            <p>Printed in the Year 1680, by <hi>Tho. James,</hi> accord<g ref="char:EOLhyphen"/>ing to the Mind, Will, and Deſire of the Author, for the Publick Good of all Nations, being the Fruit of his Meditation for <hi>England</hi>'s great Ho<g ref="char:EOLhyphen"/>nour, Riches, and Glory.</p>
+            <pb facs="tcp:37460:7"/>
+            <!-- PDF PAGE 61 -->
+         </div>
+      </back>
+   </text>
+</TEI>
